@@ -712,6 +712,7 @@ public class LFDMM
         writeDocTopicPros();
         writeTopicAssignments();
         writeTopicWordPros();
+        writeDictionary();
     }
 
     public static void main(String args[])

@@ -694,6 +694,7 @@ public class LFLDA
         writeDocTopicPros();
         writeTopicAssignments();
         writeTopicWordPros();
+        writeDictionary();
     }
 
     public static void main(String args[])

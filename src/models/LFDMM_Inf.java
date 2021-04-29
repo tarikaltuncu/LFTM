@@ -740,6 +740,7 @@ public class LFDMM_Inf
 		writeDocTopicPros();
 		writeTopicAssignments();
 		writeTopicWordPros();
+		writeDictionary();
 	}
 
 	public static void main(String args[])
